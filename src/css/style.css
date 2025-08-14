@@ -7,10 +7,13 @@ body {
 }
 
 header {
+    margin: 10px;
     display: flex;
-    background-color: #c196a3;
+    background-image: linear-gradient(#bc8c9b, #cd91a5);
+    box-shadow: #4446 0px 4px 8px;
+    border-radius: 10px;
     padding: 10px;
-    max-height: 30px;
+    max-height: 40px;
     justify-content: center;
     text-align: center;
 }
